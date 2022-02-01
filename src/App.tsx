@@ -18,15 +18,15 @@ function App() {
       </div>
     <div className='flex flex-col'>
       <div className='top-0 flex flex-row justify-center h-[100vh] items-center'>
-        <p className='text-3xl font-semibold active:text-gray-500 active:translate-y-[0px] hover:translate-y-[-3px] cursor-pointer'>
+        <p className='text-3xl font-semibold cursor-pointer hover:text-shadow-lg hover:translate-y-[-3px] active:text-shadow active:translate-y-[0px]'>
          ABOUT
         </p>
         <div className="p-5" />
-        <p className='text-3xl font-semibold active:text-gray-500 active:translate-y-[0px] hover:translate-y-[-3px] cursor-pointer'>
+        <p className='text-3xl font-semibold cursor-pointer hover:text-shadow-lg hover:translate-y-[-3px] active:text-shadow active:translate-y-[0px]'>
          CONTACT
         </p>
         <div className="p-5" />
-        <p className='text-3xl font-semibold active:text-gray-500 active:translate-y-[0px] hover:translate-y-[-3px] cursor-pointer'>
+        <p className='text-3xl font-semibold cursor-pointer hover:text-shadow-lg hover:translate-y-[-3px] active:text-shadow active:translate-y-[0px]'>
          RESUME
         </p>
       </div>
